@@ -1,0 +1,20 @@
+{
+  "name": "wwhw",
+  "description": "Turns a plain request into a structured Who/What/How/Why prompt that you approve before anything runs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gabriel Visconti",
+    "url": "https://github.com/gabrielvisconti89"
+  },
+  "homepage": "https://github.com/gabrielvisconti89/wwhw",
+  "repository": "https://github.com/gabrielvisconti89/wwhw",
+  "license": "MIT",
+  "keywords": [
+    "prompt",
+    "prompting",
+    "brief",
+    "requirements",
+    "elicitation",
+    "planning"
+  ]
+}

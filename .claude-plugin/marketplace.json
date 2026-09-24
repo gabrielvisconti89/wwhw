@@ -1,0 +1,29 @@
+{
+  "name": "wwhw",
+  "description": "The wwhw skill, distributed from its own repository.",
+  "owner": {
+    "name": "Gabriel Visconti",
+    "url": "https://github.com/gabrielvisconti89"
+  },
+  "plugins": [
+    {
+      "name": "wwhw",
+      "source": "./",
+      "description": "Turns a plain request into a structured Who/What/How/Why prompt that you approve before anything runs.",
+      "author": {
+        "name": "Gabriel Visconti",
+        "url": "https://github.com/gabrielvisconti89"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/gabrielvisconti89/wwhw",
+      "keywords": [
+        "prompt",
+        "prompting",
+        "brief",
+        "requirements",
+        "elicitation",
+        "planning"
+      ]
+    }
+  ]
+}
